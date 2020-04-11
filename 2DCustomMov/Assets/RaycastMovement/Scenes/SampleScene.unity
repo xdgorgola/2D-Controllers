@@ -1258,8 +1258,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b025ab60628e4b047aadb550b3e20e11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flyingTime: 10
-  maxHeight: 3
+  flyingTime: 0.5
+  maxHeight: 7
   movementSpeed: 10
   velocity: {x: 0, y: 0}
 --- !u!61 &721055954
